@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mbaRLq4y9kSqhPBFD02pyWOWERUFRlRkdPZT4xgDZbZkEc08gOlGbaK/41wCSwc3UkShj1tb2qxZNTnVUEWjPg==",
+  "success": true,
+  "projectFilePath": "/Users/henry.sjogren/RiderProjects/gt-april/GT/GT.csproj",
+  "expectedPackageFiles": [
+    "/Users/henry.sjogren/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

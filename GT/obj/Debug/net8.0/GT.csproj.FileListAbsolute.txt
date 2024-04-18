@@ -1,0 +1,17 @@
+/Users/henry.sjogren/RiderProjects/gt-test/GT/bin/Debug/net8.0/GT
+/Users/henry.sjogren/RiderProjects/gt-test/GT/bin/Debug/net8.0/GT.deps.json
+/Users/henry.sjogren/RiderProjects/gt-test/GT/bin/Debug/net8.0/GT.runtimeconfig.json
+/Users/henry.sjogren/RiderProjects/gt-test/GT/bin/Debug/net8.0/GT.dll
+/Users/henry.sjogren/RiderProjects/gt-test/GT/bin/Debug/net8.0/GT.pdb
+/Users/henry.sjogren/RiderProjects/gt-test/GT/obj/Debug/net8.0/GT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/henry.sjogren/RiderProjects/gt-test/GT/obj/Debug/net8.0/GT.AssemblyInfoInputs.cache
+/Users/henry.sjogren/RiderProjects/gt-test/GT/obj/Debug/net8.0/GT.AssemblyInfo.cs
+/Users/henry.sjogren/RiderProjects/gt-test/GT/obj/Debug/net8.0/GT.csproj.CoreCompileInputs.cache
+/Users/henry.sjogren/RiderProjects/gt-test/GT/obj/Debug/net8.0/GT.dll
+/Users/henry.sjogren/RiderProjects/gt-test/GT/obj/Debug/net8.0/refint/GT.dll
+/Users/henry.sjogren/RiderProjects/gt-test/GT/obj/Debug/net8.0/GT.pdb
+/Users/henry.sjogren/RiderProjects/gt-test/GT/obj/Debug/net8.0/GT.genruntimeconfig.cache
+/Users/henry.sjogren/RiderProjects/gt-test/GT/obj/Debug/net8.0/ref/GT.dll
+/Users/henry.sjogren/RiderProjects/gt-test/GT/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/henry.sjogren/RiderProjects/gt-test/GT/obj/Debug/net8.0/GT.csproj.AssemblyReference.cache
+/Users/henry.sjogren/RiderProjects/gt-test/GT/obj/Debug/net8.0/GT.csproj.Up2Date
