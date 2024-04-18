@@ -55,13 +55,13 @@ public class Palindrome
         var postObject = JsonSerializer.Serialize(palindromeDto);
         Console.WriteLine(postObject);
         var response = await HttpClient.PostAsJsonAsync(
-            BaseUrl + PostEndPoint + "blabla" + QueryParam,
+            BaseUrl + PostEndPoint + "henrysjogren" + QueryParam,
             postObject);
     }
 
     public static async Task<string> GetWords()
     {
-        var response = await HttpClient.GetAsync(BaseUrl + GetEndPoint + "blabla" + QueryParam);
+        var response = await HttpClient.GetAsync(BaseUrl + GetEndPoint + "henrysjogren" + QueryParam);
         if (response.IsSuccessStatusCode)
         {
             string jsonResult = await response.Content.ReadAsStringAsync();
